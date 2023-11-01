@@ -35,3 +35,18 @@ vraag-wat wist ik al?
 vraag-waarvan zou ik nog meer willen weten?
 3.ik zou meer willen weten over hoe ik dit beter kan gebruiken
 
+
+## Akira San Felipe Maestre
+
+# Wat heb ik met deze lessen geleerd?
+
+* Hoe je github en de command prompt moet gebruiken.
+
+# Wat wist ik al?
+
+* dat git clone een belangrijke command is.
+
+# Waarvan zou ik nog meer willen weten?
+
+* Alles.
+
